@@ -1,0 +1,35 @@
+【一、隐私与安全工具】
+Tor Browser
+Proton Mail
+Proton VPN
+Proton Pass
+KeePassXC
+VeraCrypt
+BleachBit
+7-Zip
+
+【二、系统与辅助工具】
+Everything
+PowerToys
+
+【三、创作与开发工具】
+Obsidian
+Notepad++
+VSCode
+GIMP
+Krita
+Blender
+Audacity
+FFmpeg
+
+【四、游戏与性能工具】
+MSI Afterburner
+RivaTuner Statistics Server
+DXVK
+Special K
+
+【六、备份与同步】
+Proton Drive
+
+【七、文件管理与归档】
+TreeSize Free

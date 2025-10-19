@@ -1,0 +1,3343 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 E2A2-A416
+D:\系统工具_SYSTEM
+├─分析_Analyzer
+│  └─TreeSize
+│      │  FreewareLicense.rtf
+│      │  TreeSizeFree.exe
+│      │  TreeSizeFree44.altform-lightunplated.png
+│      │  TreeSizeFree44.altform-unplated.png
+│      │  TreeSizeFree44.png
+│      │  TreeSizeFreeContextMenu.dll
+│      │  TreeSizeFreeContextMenu.msix
+│      │  unins000.dat
+│      │  unins000.exe
+│      │  unins000.msg
+│      │  
+│      ├─HELP_BG
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_CS
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_DA
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_DE
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      options.html
+│      │      patternmanager_de.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_free_benutzen.html
+│      │      treesize_professional__persona.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_EL
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_EN
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_ES
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_FI
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_FR
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_HU
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_IT
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_JA
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_KO
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_NB_NO
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_NL
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_PL
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_PT
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_PT_BR
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_RO
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_RU
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_SK
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_SL
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_SV
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_TR
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_UK
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      ├─HELP_ZH_HANS
+│      │      available_columns.html
+│      │      cicon1.png
+│      │      cicon2.png
+│      │      cicon9.png
+│      │      ciconidx.gif
+│      │      cicon_loadindex_ani.gif
+│      │      company-logo.png
+│      │      copyrightcontact.html
+│      │      custom.css
+│      │      default.css
+│      │      file.html
+│      │      help.html
+│      │      helpman_navigation.js
+│      │      helpman_settings.js
+│      │      helpman_topicinit.js
+│      │      highlight.js
+│      │      hm-keyword-page-icon.png
+│      │      hmcontent.html
+│      │      hmcontextids.js
+│      │      hmftsearch.html
+│      │      hmkwindex.html
+│      │      hm_webhelp_buttons_black.png
+│      │      hm_webhelp_buttons_blue.png
+│      │      hm_webhelp_buttons_grey.png
+│      │      hm_webhelp_buttons_orange.png
+│      │      hm_webhelp_buttons_white.png
+│      │      hm_webhelp_buttons_yellow.png
+│      │      home.html
+│      │      icon-book.png
+│      │      icon-bookopen.png
+│      │      icon-page.png
+│      │      index.html
+│      │      installation.html
+│      │      introduction.html
+│      │      jquery.js
+│      │      knowledge_base.html
+│      │      options.html
+│      │      patternmanager_en.png
+│      │      pattern_manager.html
+│      │      scan.html
+│      │      settings.js
+│      │      the-ribbon-bar.html
+│      │      tips__annotations.html
+│      │      treemap-tab.html
+│      │      treesize-professional.html
+│      │      treesizefree-classic-mainform.png
+│      │      treesizefree-classic-ribbon-help.png
+│      │      treesizefree-classic-ribbon-home.png
+│      │      treesizefree-classic-ribbon-menu.png
+│      │      treesizefree-classic-ribbon-options.png
+│      │      treesizefree-classic-ribbon-professional.png
+│      │      treesizefree-classic-ribbon-scan.png
+│      │      treesizefree-classic-ribbon-treemap.png
+│      │      treesizefree-classic-ribbon-view.png
+│      │      treesize_professional__persona.html
+│      │      using_treesize_free.html
+│      │      view.html
+│      │      whatsnew.html
+│      │      zoom_index.js
+│      │      zoom_pageinfo.js
+│      │      zoom_search.js
+│      │      
+│      └─LicenseFiles
+│          ├─Abbrevia
+│          │      License.txt
+│          │      
+│          ├─GLScene
+│          │      LICENSE
+│          │      
+│          ├─Inno Setup
+│          │      LICENSE.txt
+│          │      
+│          ├─Jedi Component Library
+│          │      License.txt
+│          │      
+│          ├─PasOpenCL
+│          │      License.txt
+│          │      
+│          ├─Spring4D
+│          │      License.txt
+│          │      
+│          ├─SynPDF
+│          │      License.txt
+│          │      
+│          ├─Virtual TreeView
+│          │      License.txt
+│          │      
+│          └─Windows Ribbon Framework for Delphi
+│                  License.txt
+│                  
+├─备份_Backup
+│  ├─Cloud
+│  │  └─ProtonDrive
+│  │      └─My files
+│  └─Installers
+│      │  7zip_Installer.exe
+│      │  Audacity_Setup.exe
+│      │  BleachBit_Setup.exe
+│      │  Blender_Setup.msi
+│      │  Everything_Setup.exe
+│      │  GIMP_Setup.exe
+│      │  KeePassXC_Setup.msi
+│      │  Krita_Setup.exe
+│      │  NotepadPlusPlus_Setup.exe
+│      │  Obsidian_Setup.exe
+│      │  PowerToys_Setup.exe
+│      │  SpecialK_Setup.exe
+│      │  Tor_Browser_Setup.exe
+│      │  TreeSizeFreeSetup.exe
+│      │  VeraCrypt_Setup.exe
+│      │  VSCode_Setup.exe
+│      │  
+│      └─RivaTuner_Setup
+│              downloaded_from_www.guru3d.com.txt
+│              RTSSSetup737.exe
+│              
+├─工具合集_Tools
+├─搜索_Search
+│  └─Everything
+│          Changes.txt
+│          Everything.exe
+│          Everything.ini
+│          Everything.lng
+│          License.txt
+│          Uninstall.exe
+│          
+├─沙盒_Sandbox
+│  └─清理工具_Cleaners
+│      └─BleachBit
+│          │  atk-1.0-0.dll
+│          │  bleachbit.exe
+│          │  bleachbit_console.exe
+│          │  brotlicommon.dll
+│          │  brotlidec.dll
+│          │  bz2.dll
+│          │  cacert.pem
+│          │  cairo-2.dll
+│          │  cairo-gobject-2.dll
+│          │  charset_normalizer.md.pyd
+│          │  charset_normalizer.md__mypyc.pyd
+│          │  COPYING
+│          │  croco-0.6-3.dll
+│          │  epoxy-0.dll
+│          │  ffi-8.dll
+│          │  fontconfig-1.dll
+│          │  freetype.dll
+│          │  fribidi-0.dll
+│          │  gdk-3-vs17.dll
+│          │  gdk_pixbuf-2.0-0.dll
+│          │  gi._gi.pyd
+│          │  gi._gi_cairo.pyd
+│          │  gio-2.0-0.dll
+│          │  girepository-1.0-1.dll
+│          │  girepository-2.0-0.dll
+│          │  glib-2.0-0.dll
+│          │  gmodule-2.0-0.dll
+│          │  gobject-2.0-0.dll
+│          │  gspawn-win32-helper-console.exe
+│          │  gspawn-win32-helper.exe
+│          │  gtk-3-vs17.dll
+│          │  harfbuzz.dll
+│          │  iconv-2.dll
+│          │  intl-8.dll
+│          │  jpeg62.dll
+│          │  libcrypto-3.dll
+│          │  libexpat.dll
+│          │  liblzma.dll
+│          │  libpng16.dll
+│          │  library.zip
+│          │  libssl-3.dll
+│          │  libxml2.dll
+│          │  pango-1.0-0.dll
+│          │  pangocairo-1.0-0.dll
+│          │  pangoft2-1.0-0.dll
+│          │  pangowin32-1.0-0.dll
+│          │  pcre2-8.dll
+│          │  pixbufloader-svg.dll
+│          │  pixman-1-0.dll
+│          │  psutil._psutil_windows.pyd
+│          │  pyexpat.pyd
+│          │  python3.dll
+│          │  python311.dll
+│          │  pythoncom311.dll
+│          │  pywintypes311.dll
+│          │  rsvg-2.dll
+│          │  select.pyd
+│          │  sqlite3.dll
+│          │  tiff.dll
+│          │  unicodedata.pyd
+│          │  uninstall.exe
+│          │  vcruntime140.dll
+│          │  win32api.pyd
+│          │  win32clipboard.pyd
+│          │  win32com.shell.shell.pyd
+│          │  win32file.pyd
+│          │  win32gui.pyd
+│          │  win32process.pyd
+│          │  win32security.pyd
+│          │  win32service.pyd
+│          │  zlib1.dll
+│          │  _asyncio.pyd
+│          │  _bz2.pyd
+│          │  _ctypes.pyd
+│          │  _decimal.pyd
+│          │  _elementtree.pyd
+│          │  _hashlib.pyd
+│          │  _lzma.pyd
+│          │  _multiprocessing.pyd
+│          │  _overlapped.pyd
+│          │  _queue.pyd
+│          │  _socket.pyd
+│          │  _sqlite3.pyd
+│          │  _ssl.pyd
+│          │  _uuid.pyd
+│          │  
+│          ├─data
+│          │      app-menu.ui
+│          │      
+│          ├─etc
+│          │  ├─fonts
+│          │  │  │  fonts.conf
+│          │  │  │  
+│          │  │  └─conf.d
+│          │  │          10-hinting-slight.conf
+│          │  │          10-scale-bitmap-fonts.conf
+│          │  │          10-sub-pixel-none.conf
+│          │  │          10-yes-antialias.conf
+│          │  │          11-lcdfilter-default.conf
+│          │  │          20-unhint-small-vera.conf
+│          │  │          30-metric-aliases.conf
+│          │  │          40-nonlatin.conf
+│          │  │          45-generic.conf
+│          │  │          45-latin.conf
+│          │  │          48-spacing.conf
+│          │  │          49-sansserif.conf
+│          │  │          50-user.conf
+│          │  │          51-local.conf
+│          │  │          60-generic.conf
+│          │  │          60-latin.conf
+│          │  │          65-fonts-persian.conf
+│          │  │          65-nonlatin.conf
+│          │  │          69-unifont.conf
+│          │  │          80-delicious.conf
+│          │  │          90-synthetic.conf
+│          │  │          README
+│          │  │          
+│          │  └─gtk-3.0
+│          │          im-multipress.conf
+│          │          
+│          ├─lib
+│          │  ├─gdk-pixbuf-2.0
+│          │  │  └─2.10.0
+│          │  │      │  loaders.cache
+│          │  │      │  
+│          │  │      └─loaders
+│          │  │              pixbufloader-svg.dll
+│          │  │              
+│          │  └─girepository-1.0
+│          │          Atk-1.0.typelib
+│          │          cairo-1.0.typelib
+│          │          DBus-1.0.typelib
+│          │          DBusGLib-1.0.typelib
+│          │          fontconfig-2.0.typelib
+│          │          freetype2-2.0.typelib
+│          │          Gdk-3.0.typelib
+│          │          GdkPixbuf-2.0.typelib
+│          │          GdkPixdata-2.0.typelib
+│          │          GdkWin32-3.0.typelib
+│          │          Gio-2.0.typelib
+│          │          GIRepository-2.0.typelib
+│          │          GL-1.0.typelib
+│          │          GLib-2.0.typelib
+│          │          GModule-2.0.typelib
+│          │          GObject-2.0.typelib
+│          │          Gtk-3.0.typelib
+│          │          HarfBuzz-0.0.typelib
+│          │          libxml2-2.0.typelib
+│          │          Pango-1.0.typelib
+│          │          PangoCairo-1.0.typelib
+│          │          PangoFc-1.0.typelib
+│          │          PangoFT2-1.0.typelib
+│          │          PangoOT-1.0.typelib
+│          │          Vulkan-1.0.typelib
+│          │          win32-1.0.typelib
+│          │          xfixes-4.0.typelib
+│          │          xft-2.0.typelib
+│          │          xlib-2.0.typelib
+│          │          xrandr-1.3.typelib
+│          │          
+│          ├─share
+│          │  │  bleachbit.ico
+│          │  │  bleachbit.png
+│          │  │  
+│          │  ├─cleaners
+│          │  │      adobe_reader.xml
+│          │  │      amule.xml
+│          │  │      brave.xml
+│          │  │      chromium.xml
+│          │  │      deepscan.xml
+│          │  │      discord.xml
+│          │  │      filezilla.xml
+│          │  │      firefox.xml
+│          │  │      flash.xml
+│          │  │      gimp.xml
+│          │  │      google_chrome.xml
+│          │  │      google_earth.xml
+│          │  │      google_toolbar.xml
+│          │  │      gpodder.xml
+│          │  │      hexchat.xml
+│          │  │      hippo_opensim_viewer.xml
+│          │  │      internet_explorer.xml
+│          │  │      java.xml
+│          │  │      libreoffice.xml
+│          │  │      librewolf.xml
+│          │  │      mc.xml
+│          │  │      microsoft_edge.xml
+│          │  │      microsoft_office.xml
+│          │  │      miro.xml
+│          │  │      octave.xml
+│          │  │      opera.xml
+│          │  │      paint.xml
+│          │  │      palemoon.xml
+│          │  │      pidgin.xml
+│          │  │      realplayer.xml
+│          │  │      safari.xml
+│          │  │      screenlets.xml
+│          │  │      seamonkey.xml
+│          │  │      secondlife_viewer.xml
+│          │  │      silverlight.xml
+│          │  │      skype.xml
+│          │  │      slack.xml
+│          │  │      smartftp.xml
+│          │  │      teamviewer.xml
+│          │  │      thunderbird.xml
+│          │  │      tortoisesvn.xml
+│          │  │      vim.xml
+│          │  │      vlc.xml
+│          │  │      vuze.xml
+│          │  │      warzone2100.xml
+│          │  │      waterfox.xml
+│          │  │      winamp.xml
+│          │  │      windows_defender.xml
+│          │  │      windows_explorer.xml
+│          │  │      windows_media_player.xml
+│          │  │      winrar.xml
+│          │  │      winzip.xml
+│          │  │      wordpad.xml
+│          │  │      yahoo_messenger.xml
+│          │  │      zoom.xml
+│          │  │      
+│          │  ├─glib-2.0
+│          │  │  └─schemas
+│          │  │          gschemas.compiled
+│          │  │          
+│          │  ├─icons
+│          │  │  ├─Adwaita
+│          │  │  │  │  index.theme
+│          │  │  │  │  
+│          │  │  │  ├─16x16
+│          │  │  │  │  └─actions
+│          │  │  │  │          edit-clear-all.png
+│          │  │  │  │          edit-delete.png
+│          │  │  │  │          edit-find.png
+│          │  │  │  │          process-stop.png
+│          │  │  │  │          
+│          │  │  │  ├─24x24
+│          │  │  │  │  └─actions
+│          │  │  │  │          edit-delete.png
+│          │  │  │  │          edit-find.png
+│          │  │  │  │          process-stop.png
+│          │  │  │  │          
+│          │  │  │  ├─32x32
+│          │  │  │  │  └─actions
+│          │  │  │  │          edit-clear-all.png
+│          │  │  │  │          edit-delete.png
+│          │  │  │  │          edit-find.png
+│          │  │  │  │          process-stop.png
+│          │  │  │  │          
+│          │  │  │  └─scalable
+│          │  │  │      └─actions
+│          │  │  │              list-add-symbolic.svg
+│          │  │  │              list-remove-symbolic.svg
+│          │  │  │              pan-down-symbolic.svg
+│          │  │  │              pan-end-symbolic.svg
+│          │  │  │              window-close-symbolic.svg
+│          │  │  │              window-maximize-symbolic.svg
+│          │  │  │              window-minimize-symbolic.svg
+│          │  │  │              window-restore-symbolic.svg
+│          │  │  │              
+│          │  │  └─hicolor
+│          │  │          index.theme
+│          │  │          
+│          │  └─themes
+│          │      └─Adwaita
+│          │          │  index.theme
+│          │          │  
+│          │          └─gtk-3.0
+│          │                  gtk.css
+│          │                  
+│          └─themes
+│              └─windows10
+│                  │  gtk-dark.css
+│                  │  gtk.css
+│                  │  License.txt
+│                  │  settings.ini
+│                  │  thumbnail.png
+│                  │  
+│                  └─assets
+│                          arrow-down-active.svg
+│                          arrow-down.svg
+│                          arrow-left-active.svg
+│                          arrow-left.svg
+│                          arrow-right-active.svg
+│                          arrow-right.svg
+│                          arrow-up-active.svg
+│                          arrow-up.svg
+│                          checkbox-checked-insensitive-unfocused.png
+│                          checkbox-checked-insensitive-unfocused@2.png
+│                          checkbox-checked-insensitive.png
+│                          checkbox-checked-insensitive@2.png
+│                          checkbox-checked-over.png
+│                          checkbox-checked-over@2.png
+│                          checkbox-checked-unfocused.png
+│                          checkbox-checked-unfocused@2.png
+│                          checkbox-checked.png
+│                          checkbox-checked@2.png
+│                          checkbox-mixed-insensitive-unfocused.png
+│                          checkbox-mixed-insensitive-unfocused@2.png
+│                          checkbox-mixed-insensitive.png
+│                          checkbox-mixed-insensitive@2.png
+│                          checkbox-mixed-over.png
+│                          checkbox-mixed-over@2.png
+│                          checkbox-mixed-unfocused.png
+│                          checkbox-mixed-unfocused@2.png
+│                          checkbox-mixed.png
+│                          checkbox-mixed@2.png
+│                          checkbox-unchecked-insensitive-unfocused.png
+│                          checkbox-unchecked-insensitive-unfocused@2.png
+│                          checkbox-unchecked-insensitive.png
+│                          checkbox-unchecked-insensitive@2.png
+│                          checkbox-unchecked-over.png
+│                          checkbox-unchecked-over@2.png
+│                          checkbox-unchecked-unfocused.png
+│                          checkbox-unchecked-unfocused@2.png
+│                          checkbox-unchecked.png
+│                          checkbox-unchecked@2.png
+│                          close-focused-active.png
+│                          close-focused.png
+│                          close-unfocused.png
+│                          maximize-focused.png
+│                          maximize-unfocused.png
+│                          minimize-focused.png
+│                          minimize-unfocused.png
+│                          radio-checked-insensitive-unfocused.png
+│                          radio-checked-insensitive-unfocused@2.png
+│                          radio-checked-insensitive.png
+│                          radio-checked-insensitive@2.png
+│                          radio-checked-over.png
+│                          radio-checked-over@2.png
+│                          radio-checked-unfocused.png
+│                          radio-checked-unfocused@2.png
+│                          radio-checked.png
+│                          radio-checked@2.png
+│                          radio-mixed-insensitive-unfocused.png
+│                          radio-mixed-insensitive-unfocused@2.png
+│                          radio-mixed-insensitive.png
+│                          radio-mixed-insensitive@2.png
+│                          radio-mixed-over.png
+│                          radio-mixed-over@2.png
+│                          radio-mixed-unfocused.png
+│                          radio-mixed-unfocused@2.png
+│                          radio-mixed.png
+│                          radio-mixed@2.png
+│                          radio-unchecked-insensitive-unfocused.png
+│                          radio-unchecked-insensitive-unfocused@2.png
+│                          radio-unchecked-insensitive.png
+│                          radio-unchecked-insensitive@2.png
+│                          radio-unchecked-over.png
+│                          radio-unchecked-over@2.png
+│                          radio-unchecked-unfocused.png
+│                          radio-unchecked-unfocused@2.png
+│                          radio-unchecked.png
+│                          radio-unchecked@2.png
+│                          restore-focused.png
+│                          restore-unfocused.png
+│                          slider-horiz-hover.png
+│                          slider-horiz-hover@2.png
+│                          slider-horiz-insensitive.png
+│                          slider-horiz-insensitive@2.png
+│                          slider-horiz-top-hover.png
+│                          slider-horiz-top-hover@2.png
+│                          slider-horiz-top-insensitive.png
+│                          slider-horiz-top-insensitive@2.png
+│                          slider-horiz-top.png
+│                          slider-horiz-top@2.png
+│                          slider-horiz.png
+│                          slider-horiz@2.png
+│                          slider-vert-hover.png
+│                          slider-vert-hover@2.png
+│                          slider-vert-insensitive.png
+│                          slider-vert-insensitive@2.png
+│                          slider-vert-left-hover.png
+│                          slider-vert-left-hover@2.png
+│                          slider-vert-left-insensitive.png
+│                          slider-vert-left-insensitive@2.png
+│                          slider-vert-left.png
+│                          slider-vert-left@2.png
+│                          slider-vert.png
+│                          slider-vert@2.png
+│                          
+├─网络_Network
+│  └─DNSCrypt
+└─隐私工具_Privacy
+    ├─加密工具_Encryption
+    │  └─VeraCrypt
+    │      │  LICENSE
+    │      │  License.txt
+    │      │  NOTICE
+    │      │  VeraCrypt Format.exe
+    │      │  VeraCrypt Setup.exe
+    │      │  veracrypt.cat
+    │      │  VeraCrypt.exe
+    │      │  veracrypt.inf
+    │      │  veracrypt.sys
+    │      │  VeraCryptExpander.exe
+    │      │  
+    │      ├─docs
+    │      │  │  VeraCrypt User Guide.chm
+    │      │  │  VeraCrypt User Guide.ru.chm
+    │      │  │  VeraCrypt User Guide.zh-cn.chm
+    │      │  │  
+    │      │  ├─EFI-DCS
+    │      │  │      dcs_tpm_owner_02.pdf
+    │      │  │      disk_encryption_v1_2.pdf
+    │      │  │      
+    │      │  └─html
+    │      │      ├─en
+    │      │      │  │  Acknowledgements.html
+    │      │      │  │  Additional Security Requirements and Precautions.html
+    │      │      │  │  AES.html
+    │      │      │  │  arrow_right.gif
+    │      │      │  │  Authenticity and Integrity.html
+    │      │      │  │  Authors.html
+    │      │      │  │  Avoid Third-Party File Extensions.html
+    │      │      │  │  bank_30x30.png
+    │      │      │  │  BCH_Logo_30x30.png
+    │      │      │  │  BC_Logo_30x30.png
+    │      │      │  │  Beginner's Tutorial.html
+    │      │      │  │  Beginner's Tutorial_Image_001.jpg
+    │      │      │  │  Beginner's Tutorial_Image_002.jpg
+    │      │      │  │  Beginner's Tutorial_Image_003.jpg
+    │      │      │  │  Beginner's Tutorial_Image_004.jpg
+    │      │      │  │  Beginner's Tutorial_Image_005.jpg
+    │      │      │  │  Beginner's Tutorial_Image_007.jpg
+    │      │      │  │  Beginner's Tutorial_Image_008.jpg
+    │      │      │  │  Beginner's Tutorial_Image_009.jpg
+    │      │      │  │  Beginner's Tutorial_Image_010.jpg
+    │      │      │  │  Beginner's Tutorial_Image_011.jpg
+    │      │      │  │  Beginner's Tutorial_Image_012.jpg
+    │      │      │  │  Beginner's Tutorial_Image_013.jpg
+    │      │      │  │  Beginner's Tutorial_Image_014.jpg
+    │      │      │  │  Beginner's Tutorial_Image_015.jpg
+    │      │      │  │  Beginner's Tutorial_Image_016.jpg
+    │      │      │  │  Beginner's Tutorial_Image_017.jpg
+    │      │      │  │  Beginner's Tutorial_Image_018.jpg
+    │      │      │  │  Beginner's Tutorial_Image_019.jpg
+    │      │      │  │  Beginner's Tutorial_Image_020.jpg
+    │      │      │  │  Beginner's Tutorial_Image_021.jpg
+    │      │      │  │  Beginner's Tutorial_Image_022.jpg
+    │      │      │  │  Beginner's Tutorial_Image_023.gif
+    │      │      │  │  Beginner's Tutorial_Image_024.gif
+    │      │      │  │  Beginner's Tutorial_Image_034.png
+    │      │      │  │  BLAKE2s-256.html
+    │      │      │  │  Camellia.html
+    │      │      │  │  Cascades.html
+    │      │      │  │  Changing Passwords and Keyfiles.html
+    │      │      │  │  Choosing Passwords and Keyfiles.html
+    │      │      │  │  Command Line Usage.html
+    │      │      │  │  CompilingGuidelineLinux.html
+    │      │      │  │  CompilingGuidelines.html
+    │      │      │  │  CompilingGuidelineWin.html
+    │      │      │  │  Contact.html
+    │      │      │  │  Contributed Resources.html
+    │      │      │  │  Conversion_Guide_VeraCrypt_1.26_and_Later.html
+    │      │      │  │  Converting TrueCrypt volumes and partitions.html
+    │      │      │  │  Converting TrueCrypt volumes and partitions_truecrypt_convertion.jpg
+    │      │      │  │  Creating New Volumes.html
+    │      │      │  │  Data Leaks.html
+    │      │      │  │  Default Mount Parameters.html
+    │      │      │  │  Default Mount Parameters_VeraCrypt_password_using_default_parameters.png
+    │      │      │  │  Defragmenting.html
+    │      │      │  │  Digital Signatures.html
+    │      │      │  │  Disclaimers.html
+    │      │      │  │  Documentation.html
+    │      │      │  │  Donation.html
+    │      │      │  │  donation.js
+    │      │      │  │  Donation_Bank.html
+    │      │      │  │  Donation_donate.gif
+    │      │      │  │  Donation_donate_CHF.gif
+    │      │      │  │  Donation_donate_Dollars.gif
+    │      │      │  │  Donation_donate_Euros.gif
+    │      │      │  │  Donation_donate_GBP.gif
+    │      │      │  │  Donation_donate_PLN.gif
+    │      │      │  │  Donation_donate_YEN.gif
+    │      │      │  │  Donation_VC_BTC_Sigwit.png
+    │      │      │  │  Donation_VeraCrypt_Bitcoin_small.png
+    │      │      │  │  Donation_VeraCrypt_Ethereum.png
+    │      │      │  │  EMV Smart Cards.html
+    │      │      │  │  Encryption Algorithms.html
+    │      │      │  │  Encryption Scheme.html
+    │      │      │  │  Ethereum_Logo_19x30.png
+    │      │      │  │  FAQ.html
+    │      │      │  │  Favorite Volumes.html
+    │      │      │  │  flag-au-small.png
+    │      │      │  │  flag-au.png
+    │      │      │  │  flag-eu-small.png
+    │      │      │  │  flag-eu.png
+    │      │      │  │  flag-gb-small.png
+    │      │      │  │  flag-gb.png
+    │      │      │  │  flag-nz-small.png
+    │      │      │  │  flag-nz.png
+    │      │      │  │  flag-us-small.png
+    │      │      │  │  flag-us.png
+    │      │      │  │  flattr-badge-large.png
+    │      │      │  │  gf2_mul.gif
+    │      │      │  │  Hardware Acceleration.html
+    │      │      │  │  Hash Algorithms.html
+    │      │      │  │  Header Key Derivation.html
+    │      │      │  │  Hibernation File.html
+    │      │      │  │  Hidden Operating System.html
+    │      │      │  │  Hidden Volume.html
+    │      │      │  │  Home_facebook_veracrypt.png
+    │      │      │  │  Home_reddit.png
+    │      │      │  │  Home_utilities-file-archiver-3.png
+    │      │      │  │  Home_VeraCrypt_Default_Mount_Parameters.png
+    │      │      │  │  Home_VeraCrypt_menu_Default_Mount_Parameters.png
+    │      │      │  │  Hot Keys.html
+    │      │      │  │  How to Back Up Securely.html
+    │      │      │  │  Incompatibilities.html
+    │      │      │  │  Introduction.html
+    │      │      │  │  Issues and Limitations.html
+    │      │      │  │  Journaling File Systems.html
+    │      │      │  │  Keyfiles in VeraCrypt.html
+    │      │      │  │  Keyfiles in VeraCrypt_Image_040.gif
+    │      │      │  │  Keyfiles.html
+    │      │      │  │  Kuznyechik.html
+    │      │      │  │  Language Packs.html
+    │      │      │  │  Legal Information.html
+    │      │      │  │  liberapay_donate.svg
+    │      │      │  │  LTC_Logo_30x30.png
+    │      │      │  │  Main Program Window.html
+    │      │      │  │  Malware.html
+    │      │      │  │  mastodon_veracrypt.PNG
+    │      │      │  │  Memory Dump Files.html
+    │      │      │  │  Miscellaneous.html
+    │      │      │  │  Modes of Operation.html
+    │      │      │  │  Monero_Logo_30x30.png
+    │      │      │  │  Mounting VeraCrypt Volumes.html
+    │      │      │  │  Multi-User Environment.html
+    │      │      │  │  Normal Unmount vs Force Unmount.html
+    │      │      │  │  Notation.html
+    │      │      │  │  Paging File.html
+    │      │      │  │  Parallelization.html
+    │      │      │  │  paypal_30x30.png
+    │      │      │  │  Personal Iterations Multiplier (PIM).html
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step1.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step2.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step1.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step2.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step1.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step2.png
+    │      │      │  │  Physical Security.html
+    │      │      │  │  Pipelining.html
+    │      │      │  │  Plausible Deniability.html
+    │      │      │  │  Portable Mode.html
+    │      │      │  │  Preface.html
+    │      │      │  │  Program Menu.html
+    │      │      │  │  Protection of Hidden Volumes.html
+    │      │      │  │  Protection of Hidden Volumes_Image_027.jpg
+    │      │      │  │  Protection of Hidden Volumes_Image_028.jpg
+    │      │      │  │  Protection of Hidden Volumes_Image_029.jpg
+    │      │      │  │  Protection of Hidden Volumes_Image_030.jpg
+    │      │      │  │  Protection of Hidden Volumes_Image_031.jpg
+    │      │      │  │  Random Number Generator.html
+    │      │      │  │  Reallocated Sectors.html
+    │      │      │  │  References.html
+    │      │      │  │  Release Notes.html
+    │      │      │  │  Removable Medium Volume.html
+    │      │      │  │  Removing Encryption.html
+    │      │      │  │  Security Model.html
+    │      │      │  │  Security Requirements and Precautions.html
+    │      │      │  │  Security Requirements for Hidden Volumes.html
+    │      │      │  │  Security Tokens & Smart Cards.html
+    │      │      │  │  Serpent.html
+    │      │      │  │  SHA-256.html
+    │      │      │  │  SHA-512.html
+    │      │      │  │  Sharing over Network.html
+    │      │      │  │  SM4.html
+    │      │      │  │  Source Code.html
+    │      │      │  │  Standard Compliance.html
+    │      │      │  │  Streebog.html
+    │      │      │  │  styles.css
+    │      │      │  │  Supported Operating Systems.html
+    │      │      │  │  Supported Systems for System Encryption.html
+    │      │      │  │  System Encryption.html
+    │      │      │  │  System Favorite Volumes.html
+    │      │      │  │  Technical Details.html
+    │      │      │  │  Trim Operation.html
+    │      │      │  │  Troubleshooting.html
+    │      │      │  │  TrueCrypt Support.html
+    │      │      │  │  TrueCrypt Support_truecrypt_mode_gui.jpg
+    │      │      │  │  twitter_veracrypt.PNG
+    │      │      │  │  Twofish.html
+    │      │      │  │  Unencrypted Data in RAM.html
+    │      │      │  │  Uninstalling VeraCrypt.html
+    │      │      │  │  Using VeraCrypt Without Administrator Privileges.html
+    │      │      │  │  VeraCrypt Background Task.html
+    │      │      │  │  VeraCrypt Hidden Operating System.html
+    │      │      │  │  VeraCrypt License.html
+    │      │      │  │  VeraCrypt Memory Protection.html
+    │      │      │  │  VeraCrypt RAM Encryption.html
+    │      │      │  │  VeraCrypt Rescue Disk.html
+    │      │      │  │  VeraCrypt System Files.html
+    │      │      │  │  VeraCrypt Volume Format Specification.html
+    │      │      │  │  VeraCrypt Volume.html
+    │      │      │  │  VeraCrypt128x128.png
+    │      │      │  │  Volume Clones.html
+    │      │      │  │  Wear-Leveling.html
+    │      │      │  │  Whirlpool.html
+    │      │      │  │  
+    │      │      │  └─CompilingGuidelineWin
+    │      │      │          AddNewSystemVar.jpg
+    │      │      │          CertificateCannotBeVerified.jpg
+    │      │      │          CertVerifyFails.jpg
+    │      │      │          DistributionPackageDamaged.jpg
+    │      │      │          DownloadVS2010.jpg
+    │      │      │          DownloadVS2019.jpg
+    │      │      │          DownloadVSBuildTools.jpg
+    │      │      │          gzipCommandLine.jpg
+    │      │      │          NasmCommandLine.jpg
+    │      │      │          RegeditPermissions-1.jpg
+    │      │      │          RegeditPermissions-2.jpg
+    │      │      │          RegeditPermissions-3.jpg
+    │      │      │          RegeditPermissions-4.jpg
+    │      │      │          SelectAdvancedSystemSettings.jpg
+    │      │      │          SelectEnvironmentVariables.jpg
+    │      │      │          SelectPathVariable.jpg
+    │      │      │          SelectThisPC.jpg
+    │      │      │          upxCommandLine.jpg
+    │      │      │          VS2010BuildSolution.jpg
+    │      │      │          VS2010Win32Config.jpg
+    │      │      │          VS2010X64Config.jpg
+    │      │      │          VS2019ARM64Config.jpg
+    │      │      │          VS2019BuildSolution.jpg
+    │      │      │          YasmCommandLine.jpg
+    │      │      │          
+    │      │      ├─ru
+    │      │      │  │  Acknowledgements.html
+    │      │      │  │  Additional Security Requirements and Precautions.html
+    │      │      │  │  AES.html
+    │      │      │  │  arrow_right.gif
+    │      │      │  │  Authenticity and Integrity.html
+    │      │      │  │  Authors.html
+    │      │      │  │  Avoid Third-Party File Extensions.html
+    │      │      │  │  bank_30x30.png
+    │      │      │  │  BCH_Logo_30x30.png
+    │      │      │  │  BC_Logo_30x30.png
+    │      │      │  │  Beginner's Tutorial.html
+    │      │      │  │  Beginner's Tutorial_Image_001.png
+    │      │      │  │  Beginner's Tutorial_Image_002.png
+    │      │      │  │  Beginner's Tutorial_Image_003.png
+    │      │      │  │  Beginner's Tutorial_Image_004.png
+    │      │      │  │  Beginner's Tutorial_Image_005.png
+    │      │      │  │  Beginner's Tutorial_Image_007.png
+    │      │      │  │  Beginner's Tutorial_Image_008.png
+    │      │      │  │  Beginner's Tutorial_Image_009.png
+    │      │      │  │  Beginner's Tutorial_Image_010.png
+    │      │      │  │  Beginner's Tutorial_Image_011.png
+    │      │      │  │  Beginner's Tutorial_Image_012.png
+    │      │      │  │  Beginner's Tutorial_Image_013.png
+    │      │      │  │  Beginner's Tutorial_Image_014.png
+    │      │      │  │  Beginner's Tutorial_Image_015.png
+    │      │      │  │  Beginner's Tutorial_Image_016.png
+    │      │      │  │  Beginner's Tutorial_Image_017.png
+    │      │      │  │  Beginner's Tutorial_Image_018.png
+    │      │      │  │  Beginner's Tutorial_Image_019.png
+    │      │      │  │  Beginner's Tutorial_Image_020.png
+    │      │      │  │  Beginner's Tutorial_Image_021.png
+    │      │      │  │  Beginner's Tutorial_Image_022.png
+    │      │      │  │  Beginner's Tutorial_Image_023.png
+    │      │      │  │  Beginner's Tutorial_Image_024.png
+    │      │      │  │  Beginner's Tutorial_Image_034.png
+    │      │      │  │  BLAKE2s-256.html
+    │      │      │  │  Camellia.html
+    │      │      │  │  Cascades.html
+    │      │      │  │  Changing Passwords and Keyfiles.html
+    │      │      │  │  Choosing Passwords and Keyfiles.html
+    │      │      │  │  Command Line Usage.html
+    │      │      │  │  CompilingGuidelineLinux.html
+    │      │      │  │  CompilingGuidelines.html
+    │      │      │  │  CompilingGuidelineWin.html
+    │      │      │  │  Contact.html
+    │      │      │  │  Contributed Resources.html
+    │      │      │  │  Conversion_Guide_VeraCrypt_1.26_and_Later.html
+    │      │      │  │  Converting TrueCrypt volumes and partitions.html
+    │      │      │  │  Converting TrueCrypt volumes and partitions_truecrypt_convertion.png
+    │      │      │  │  Creating New Volumes.html
+    │      │      │  │  Data Leaks.html
+    │      │      │  │  Default Mount Parameters.html
+    │      │      │  │  Default Mount Parameters_VeraCrypt_password_using_default_parameters.png
+    │      │      │  │  Defragmenting.html
+    │      │      │  │  Digital Signatures.html
+    │      │      │  │  Disclaimers.html
+    │      │      │  │  Documentation.html
+    │      │      │  │  Donation.html
+    │      │      │  │  donation.js
+    │      │      │  │  Donation_Bank.html
+    │      │      │  │  Donation_donate.gif
+    │      │      │  │  Donation_donate_CHF.gif
+    │      │      │  │  Donation_donate_Dollars.gif
+    │      │      │  │  Donation_donate_Euros.gif
+    │      │      │  │  Donation_donate_GBP.gif
+    │      │      │  │  Donation_donate_PLN.gif
+    │      │      │  │  Donation_donate_YEN.gif
+    │      │      │  │  Donation_VC_BTC_Sigwit.png
+    │      │      │  │  Donation_VeraCrypt_Bitcoin_small.png
+    │      │      │  │  Donation_VeraCrypt_Ethereum.png
+    │      │      │  │  EMV Smart Cards.html
+    │      │      │  │  Encryption Algorithms.html
+    │      │      │  │  Encryption Scheme.html
+    │      │      │  │  Ethereum_Logo_19x30.png
+    │      │      │  │  FAQ.html
+    │      │      │  │  Favorite Volumes.html
+    │      │      │  │  flag-au-small.png
+    │      │      │  │  flag-au.png
+    │      │      │  │  flag-eu-small.png
+    │      │      │  │  flag-eu.png
+    │      │      │  │  flag-gb-small.png
+    │      │      │  │  flag-gb.png
+    │      │      │  │  flag-nz-small.png
+    │      │      │  │  flag-nz.png
+    │      │      │  │  flag-us-small.png
+    │      │      │  │  flag-us.png
+    │      │      │  │  flattr-badge-large.png
+    │      │      │  │  gf2_mul.gif
+    │      │      │  │  Hardware Acceleration.html
+    │      │      │  │  Hash Algorithms.html
+    │      │      │  │  Header Key Derivation.html
+    │      │      │  │  Hibernation File.html
+    │      │      │  │  Hidden Operating System.html
+    │      │      │  │  Hidden Volume.html
+    │      │      │  │  Home_facebook_veracrypt.png
+    │      │      │  │  Home_reddit.png
+    │      │      │  │  Home_utilities-file-archiver-3.png
+    │      │      │  │  Home_VeraCrypt_Default_Mount_Parameters.png
+    │      │      │  │  Home_VeraCrypt_menu_Default_Mount_Parameters.png
+    │      │      │  │  Hot Keys.html
+    │      │      │  │  How to Back Up Securely.html
+    │      │      │  │  Incompatibilities.html
+    │      │      │  │  Introduction.html
+    │      │      │  │  Issues and Limitations.html
+    │      │      │  │  Journaling File Systems.html
+    │      │      │  │  Keyfiles in VeraCrypt.html
+    │      │      │  │  Keyfiles in VeraCrypt_Image_040.png
+    │      │      │  │  Keyfiles.html
+    │      │      │  │  Kuznyechik.html
+    │      │      │  │  Language Packs.html
+    │      │      │  │  Legal Information.html
+    │      │      │  │  liberapay_donate.svg
+    │      │      │  │  LTC_Logo_30x30.png
+    │      │      │  │  Main Program Window.html
+    │      │      │  │  Malware.html
+    │      │      │  │  mastodon_veracrypt.PNG
+    │      │      │  │  Memory Dump Files.html
+    │      │      │  │  Miscellaneous.html
+    │      │      │  │  Modes of Operation.html
+    │      │      │  │  Monero_Logo_30x30.png
+    │      │      │  │  Mounting VeraCrypt Volumes.html
+    │      │      │  │  Multi-User Environment.html
+    │      │      │  │  Normal Unmount vs Force Unmount.html
+    │      │      │  │  Notation.html
+    │      │      │  │  Paging File.html
+    │      │      │  │  Parallelization.html
+    │      │      │  │  paypal_30x30.png
+    │      │      │  │  Personal Iterations Multiplier (PIM).html
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step1.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step2.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step1.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step2.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step1.png
+    │      │      │  │  Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step2.png
+    │      │      │  │  Physical Security.html
+    │      │      │  │  Pipelining.html
+    │      │      │  │  Plausible Deniability.html
+    │      │      │  │  Portable Mode.html
+    │      │      │  │  Preface.html
+    │      │      │  │  Program Menu.html
+    │      │      │  │  Protection of Hidden Volumes.html
+    │      │      │  │  Protection of Hidden Volumes_Image_027.png
+    │      │      │  │  Protection of Hidden Volumes_Image_028.png
+    │      │      │  │  Protection of Hidden Volumes_Image_029.png
+    │      │      │  │  Protection of Hidden Volumes_Image_030.png
+    │      │      │  │  Protection of Hidden Volumes_Image_031.png
+    │      │      │  │  Random Number Generator.html
+    │      │      │  │  Reallocated Sectors.html
+    │      │      │  │  References.html
+    │      │      │  │  Release Notes.html
+    │      │      │  │  Removable Medium Volume.html
+    │      │      │  │  Removing Encryption.html
+    │      │      │  │  Security Model.html
+    │      │      │  │  Security Requirements and Precautions.html
+    │      │      │  │  Security Requirements for Hidden Volumes.html
+    │      │      │  │  Security Tokens & Smart Cards.html
+    │      │      │  │  Serpent.html
+    │      │      │  │  SHA-256.html
+    │      │      │  │  SHA-512.html
+    │      │      │  │  Sharing over Network.html
+    │      │      │  │  SM4.html
+    │      │      │  │  Source Code.html
+    │      │      │  │  Standard Compliance.html
+    │      │      │  │  Streebog.html
+    │      │      │  │  styles.css
+    │      │      │  │  Supported Operating Systems.html
+    │      │      │  │  Supported Systems for System Encryption.html
+    │      │      │  │  System Encryption.html
+    │      │      │  │  System Favorite Volumes.html
+    │      │      │  │  Technical Details.html
+    │      │      │  │  Trim Operation.html
+    │      │      │  │  Troubleshooting.html
+    │      │      │  │  TrueCrypt Support.html
+    │      │      │  │  TrueCrypt Support_truecrypt_mode_gui.png
+    │      │      │  │  twitter_veracrypt.PNG
+    │      │      │  │  Twofish.html
+    │      │      │  │  Unencrypted Data in RAM.html
+    │      │      │  │  Uninstalling VeraCrypt.html
+    │      │      │  │  Using VeraCrypt Without Administrator Privileges.html
+    │      │      │  │  VeraCrypt Background Task.html
+    │      │      │  │  VeraCrypt Hidden Operating System.html
+    │      │      │  │  VeraCrypt License.html
+    │      │      │  │  VeraCrypt Memory Protection.html
+    │      │      │  │  VeraCrypt RAM Encryption.html
+    │      │      │  │  VeraCrypt Rescue Disk.html
+    │      │      │  │  VeraCrypt System Files.html
+    │      │      │  │  VeraCrypt Volume Format Specification.html
+    │      │      │  │  VeraCrypt Volume.html
+    │      │      │  │  VeraCrypt128x128.png
+    │      │      │  │  Volume Clones.html
+    │      │      │  │  Wear-Leveling.html
+    │      │      │  │  Whirlpool.html
+    │      │      │  │  
+    │      │      │  └─CompilingGuidelineWin
+    │      │      │          AddNewSystemVar.jpg
+    │      │      │          CertificateCannotBeVerified.jpg
+    │      │      │          CertVerifyFails.jpg
+    │      │      │          DistributionPackageDamaged.jpg
+    │      │      │          DownloadVS2010.jpg
+    │      │      │          DownloadVS2019.jpg
+    │      │      │          DownloadVSBuildTools.jpg
+    │      │      │          gzipCommandLine.jpg
+    │      │      │          NasmCommandLine.jpg
+    │      │      │          RegeditPermissions-1.jpg
+    │      │      │          RegeditPermissions-2.jpg
+    │      │      │          RegeditPermissions-3.jpg
+    │      │      │          RegeditPermissions-4.jpg
+    │      │      │          SelectAdvancedSystemSettings.jpg
+    │      │      │          SelectEnvironmentVariables.jpg
+    │      │      │          SelectPathVariable.jpg
+    │      │      │          SelectThisPC.jpg
+    │      │      │          upxCommandLine.jpg
+    │      │      │          VS2010BuildSolution.jpg
+    │      │      │          VS2010Win32Config.jpg
+    │      │      │          VS2010X64Config.jpg
+    │      │      │          VS2019ARM64Config.jpg
+    │      │      │          VS2019BuildSolution.jpg
+    │      │      │          YasmCommandLine.jpg
+    │      │      │          
+    │      │      └─zh-cn
+    │      │          │  Acknowledgements.html
+    │      │          │  Additional Security Requirements and Precautions.html
+    │      │          │  AES.html
+    │      │          │  arrow_right.gif
+    │      │          │  Authenticity and Integrity.html
+    │      │          │  Authors.html
+    │      │          │  Avoid Third-Party File Extensions.html
+    │      │          │  bank_30x30.png
+    │      │          │  BCH_Logo_30x30.png
+    │      │          │  BC_Logo_30x30.png
+    │      │          │  Beginner's Tutorial.html
+    │      │          │  Beginner's Tutorial_Image_001.jpg
+    │      │          │  Beginner's Tutorial_Image_002.jpg
+    │      │          │  Beginner's Tutorial_Image_003.jpg
+    │      │          │  Beginner's Tutorial_Image_004.jpg
+    │      │          │  Beginner's Tutorial_Image_005.jpg
+    │      │          │  Beginner's Tutorial_Image_007.jpg
+    │      │          │  Beginner's Tutorial_Image_008.jpg
+    │      │          │  Beginner's Tutorial_Image_009.jpg
+    │      │          │  Beginner's Tutorial_Image_010.jpg
+    │      │          │  Beginner's Tutorial_Image_011.jpg
+    │      │          │  Beginner's Tutorial_Image_012.jpg
+    │      │          │  Beginner's Tutorial_Image_013.jpg
+    │      │          │  Beginner's Tutorial_Image_014.jpg
+    │      │          │  Beginner's Tutorial_Image_015.jpg
+    │      │          │  Beginner's Tutorial_Image_016.jpg
+    │      │          │  Beginner's Tutorial_Image_017.jpg
+    │      │          │  Beginner's Tutorial_Image_018.jpg
+    │      │          │  Beginner's Tutorial_Image_019.jpg
+    │      │          │  Beginner's Tutorial_Image_020.jpg
+    │      │          │  Beginner's Tutorial_Image_021.jpg
+    │      │          │  Beginner's Tutorial_Image_022.jpg
+    │      │          │  Beginner's Tutorial_Image_023.gif
+    │      │          │  Beginner's Tutorial_Image_024.gif
+    │      │          │  Beginner's Tutorial_Image_034.png
+    │      │          │  BLAKE2s-256.html
+    │      │          │  Camellia.html
+    │      │          │  Cascades.html
+    │      │          │  Changing Passwords and Keyfiles.html
+    │      │          │  Choosing Passwords and Keyfiles.html
+    │      │          │  Command Line Usage.html
+    │      │          │  CompilingGuidelineLinux.html
+    │      │          │  CompilingGuidelines.html
+    │      │          │  CompilingGuidelineWin.html
+    │      │          │  Contact.html
+    │      │          │  Contributed Resources.html
+    │      │          │  Conversion_Guide_VeraCrypt_1.26_and_Later.html
+    │      │          │  Converting TrueCrypt volumes and partitions.html
+    │      │          │  Converting TrueCrypt volumes and partitions_truecrypt_convertion.jpg
+    │      │          │  Creating New Volumes.html
+    │      │          │  Data Leaks.html
+    │      │          │  Default Mount Parameters.html
+    │      │          │  Default Mount Parameters_VeraCrypt_password_using_default_parameters.png
+    │      │          │  Defragmenting.html
+    │      │          │  Digital Signatures.html
+    │      │          │  Disclaimers.html
+    │      │          │  Documentation.html
+    │      │          │  Donation.html
+    │      │          │  donation.js
+    │      │          │  Donation_Bank.html
+    │      │          │  Donation_donate.gif
+    │      │          │  Donation_donate_CHF.gif
+    │      │          │  Donation_donate_Dollars.gif
+    │      │          │  Donation_donate_Euros.gif
+    │      │          │  Donation_donate_GBP.gif
+    │      │          │  Donation_donate_PLN.gif
+    │      │          │  Donation_donate_YEN.gif
+    │      │          │  Donation_VC_BTC_Sigwit.png
+    │      │          │  Donation_VeraCrypt_Bitcoin_small.png
+    │      │          │  Donation_VeraCrypt_Ethereum.png
+    │      │          │  EMV Smart Cards.html
+    │      │          │  Encryption Algorithms.html
+    │      │          │  Encryption Scheme.html
+    │      │          │  Ethereum_Logo_19x30.png
+    │      │          │  FAQ.html
+    │      │          │  Favorite Volumes.html
+    │      │          │  flag-au-small.png
+    │      │          │  flag-au.png
+    │      │          │  flag-eu-small.png
+    │      │          │  flag-eu.png
+    │      │          │  flag-gb-small.png
+    │      │          │  flag-gb.png
+    │      │          │  flag-nz-small.png
+    │      │          │  flag-nz.png
+    │      │          │  flag-us-small.png
+    │      │          │  flag-us.png
+    │      │          │  flattr-badge-large.png
+    │      │          │  gf2_mul.gif
+    │      │          │  Hardware Acceleration.html
+    │      │          │  Hash Algorithms.html
+    │      │          │  Header Key Derivation.html
+    │      │          │  Hibernation File.html
+    │      │          │  Hidden Operating System.html
+    │      │          │  Hidden Volume.html
+    │      │          │  Home_facebook_veracrypt.png
+    │      │          │  Home_reddit.png
+    │      │          │  Home_utilities-file-archiver-3.png
+    │      │          │  Home_VeraCrypt_Default_Mount_Parameters.png
+    │      │          │  Home_VeraCrypt_menu_Default_Mount_Parameters.png
+    │      │          │  Hot Keys.html
+    │      │          │  How to Back Up Securely.html
+    │      │          │  Incompatibilities.html
+    │      │          │  Introduction.html
+    │      │          │  Issues and Limitations.html
+    │      │          │  Journaling File Systems.html
+    │      │          │  Keyfiles in VeraCrypt.html
+    │      │          │  Keyfiles in VeraCrypt_Image_040.gif
+    │      │          │  Keyfiles.html
+    │      │          │  Kuznyechik.html
+    │      │          │  Language Packs.html
+    │      │          │  Legal Information.html
+    │      │          │  liberapay_donate.svg
+    │      │          │  LTC_Logo_30x30.png
+    │      │          │  Main Program Window.html
+    │      │          │  Malware.html
+    │      │          │  mastodon_veracrypt.PNG
+    │      │          │  Memory Dump Files.html
+    │      │          │  Miscellaneous.html
+    │      │          │  Modes of Operation.html
+    │      │          │  Monero_Logo_30x30.png
+    │      │          │  Mounting VeraCrypt Volumes.html
+    │      │          │  Multi-User Environment.html
+    │      │          │  Normal Unmount vs Force Unmount.html
+    │      │          │  Notation.html
+    │      │          │  Paging File.html
+    │      │          │  Parallelization.html
+    │      │          │  paypal_30x30.png
+    │      │          │  Personal Iterations Multiplier (PIM).html
+    │      │          │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step1.png
+    │      │          │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_Step2.png
+    │      │          │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step1.png
+    │      │          │  Personal Iterations Multiplier (PIM)_VeraCrypt_ChangePIM_System_Step2.png
+    │      │          │  Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step1.png
+    │      │          │  Personal Iterations Multiplier (PIM)_VeraCrypt_UsePIM_Step2.png
+    │      │          │  Physical Security.html
+    │      │          │  Pipelining.html
+    │      │          │  Plausible Deniability.html
+    │      │          │  Portable Mode.html
+    │      │          │  Preface.html
+    │      │          │  Program Menu.html
+    │      │          │  Protection of Hidden Volumes.html
+    │      │          │  Protection of Hidden Volumes_Image_027.jpg
+    │      │          │  Protection of Hidden Volumes_Image_028.jpg
+    │      │          │  Protection of Hidden Volumes_Image_029.jpg
+    │      │          │  Protection of Hidden Volumes_Image_030.jpg
+    │      │          │  Protection of Hidden Volumes_Image_031.jpg
+    │      │          │  Random Number Generator.html
+    │      │          │  Reallocated Sectors.html
+    │      │          │  References.html
+    │      │          │  Release Notes.html
+    │      │          │  Removable Medium Volume.html
+    │      │          │  Removing Encryption.html
+    │      │          │  Security Model.html
+    │      │          │  Security Requirements and Precautions.html
+    │      │          │  Security Requirements for Hidden Volumes.html
+    │      │          │  Security Tokens & Smart Cards.html
+    │      │          │  Serpent.html
+    │      │          │  SHA-256.html
+    │      │          │  SHA-512.html
+    │      │          │  Sharing over Network.html
+    │      │          │  SM4.html
+    │      │          │  Source Code.html
+    │      │          │  Standard Compliance.html
+    │      │          │  Streebog.html
+    │      │          │  styles.css
+    │      │          │  Supported Operating Systems.html
+    │      │          │  Supported Systems for System Encryption.html
+    │      │          │  System Encryption.html
+    │      │          │  System Favorite Volumes.html
+    │      │          │  Technical Details.html
+    │      │          │  Trim Operation.html
+    │      │          │  Troubleshooting.html
+    │      │          │  TrueCrypt Support.html
+    │      │          │  TrueCrypt Support_truecrypt_mode_gui.jpg
+    │      │          │  twitter_veracrypt.PNG
+    │      │          │  Twofish.html
+    │      │          │  Unencrypted Data in RAM.html
+    │      │          │  Uninstalling VeraCrypt.html
+    │      │          │  Using VeraCrypt Without Administrator Privileges.html
+    │      │          │  VeraCrypt Background Task.html
+    │      │          │  VeraCrypt Hidden Operating System.html
+    │      │          │  VeraCrypt License.html
+    │      │          │  VeraCrypt Memory Protection.html
+    │      │          │  VeraCrypt RAM Encryption.html
+    │      │          │  VeraCrypt Rescue Disk.html
+    │      │          │  VeraCrypt System Files.html
+    │      │          │  VeraCrypt Volume Format Specification.html
+    │      │          │  VeraCrypt Volume.html
+    │      │          │  VeraCrypt128x128.png
+    │      │          │  Volume Clones.html
+    │      │          │  Wear-Leveling.html
+    │      │          │  Whirlpool.html
+    │      │          │  
+    │      │          └─CompilingGuidelineWin
+    │      │                  AddNewSystemVar.jpg
+    │      │                  CertificateCannotBeVerified.jpg
+    │      │                  CertVerifyFails.jpg
+    │      │                  DistributionPackageDamaged.jpg
+    │      │                  DownloadVS2010.jpg
+    │      │                  DownloadVS2019.jpg
+    │      │                  DownloadVSBuildTools.jpg
+    │      │                  gzipCommandLine.jpg
+    │      │                  NasmCommandLine.jpg
+    │      │                  RegeditPermissions-1.jpg
+    │      │                  RegeditPermissions-2.jpg
+    │      │                  RegeditPermissions-3.jpg
+    │      │                  RegeditPermissions-4.jpg
+    │      │                  SelectAdvancedSystemSettings.jpg
+    │      │                  SelectEnvironmentVariables.jpg
+    │      │                  SelectPathVariable.jpg
+    │      │                  SelectThisPC.jpg
+    │      │                  upxCommandLine.jpg
+    │      │                  VS2010BuildSolution.jpg
+    │      │                  VS2010Win32Config.jpg
+    │      │                  VS2010X64Config.jpg
+    │      │                  VS2019ARM64Config.jpg
+    │      │                  VS2019BuildSolution.jpg
+    │      │                  YasmCommandLine.jpg
+    │      │                  
+    │      └─Languages
+    │              Language.ar.xml
+    │              Language.be.xml
+    │              Language.bg.xml
+    │              Language.ca.xml
+    │              Language.co.xml
+    │              Language.cs.xml
+    │              Language.da.xml
+    │              Language.de.xml
+    │              Language.el.xml
+    │              Language.es.xml
+    │              Language.et.xml
+    │              Language.eu.xml
+    │              Language.fa.xml
+    │              Language.fi.xml
+    │              Language.fr.xml
+    │              Language.he.xml
+    │              Language.hu.xml
+    │              Language.id.xml
+    │              Language.it.xml
+    │              Language.ja.xml
+    │              Language.ka.xml
+    │              Language.ko.xml
+    │              Language.lv.xml
+    │              Language.my.xml
+    │              Language.nb.xml
+    │              Language.nl.xml
+    │              Language.nn.xml
+    │              Language.pl.xml
+    │              Language.pt-br.xml
+    │              Language.ro.xml
+    │              Language.ru.xml
+    │              Language.sk.xml
+    │              Language.sl.xml
+    │              Language.sv.xml
+    │              Language.th.xml
+    │              Language.tr.xml
+    │              Language.uk.xml
+    │              Language.uz.xml
+    │              Language.vi.xml
+    │              Language.zh-cn.xml
+    │              Language.zh-hk.xml
+    │              Language.zh-tw.xml
+    │              
+    ├─密码管理_Passwords
+    │  └─KeePassXC
+    │      │  argon2.dll
+    │      │  botan-3.dll
+    │      │  brotlicommon.dll
+    │      │  brotlidec.dll
+    │      │  bz2.dll
+    │      │  double-conversion.dll
+    │      │  freetype.dll
+    │      │  harfbuzz.dll
+    │      │  jpeg62.dll
+    │      │  keepassxc-autotype-windows.dll
+    │      │  keepassxc-cli.exe
+    │      │  keepassxc-proxy.exe
+    │      │  KeePassXC.exe
+    │      │  libcrypto-3-x64.dll
+    │      │  liblzma.dll
+    │      │  libpng16.dll
+    │      │  libsharpyuv.dll
+    │      │  libssl-3-x64.dll
+    │      │  libwebp.dll
+    │      │  libwebpdemux.dll
+    │      │  libwebpmux.dll
+    │      │  minizip.dll
+    │      │  pcre2-16.dll
+    │      │  qrencode.dll
+    │      │  qt.conf
+    │      │  Qt5Concurrent.dll
+    │      │  Qt5Core.dll
+    │      │  Qt5Gui.dll
+    │      │  Qt5Network.dll
+    │      │  Qt5Svg.dll
+    │      │  Qt5Widgets.dll
+    │      │  readline.dll
+    │      │  tiff.dll
+    │      │  zlib1.dll
+    │      │  zstd.dll
+    │      │  
+    │      ├─plugins
+    │      │  ├─bearer
+    │      │  │      qgenericbearer.dll
+    │      │  │      
+    │      │  ├─iconengines
+    │      │  │      qsvgicon.dll
+    │      │  │      
+    │      │  ├─imageformats
+    │      │  │      qgif.dll
+    │      │  │      qicns.dll
+    │      │  │      qico.dll
+    │      │  │      qjpeg.dll
+    │      │  │      qsvg.dll
+    │      │  │      qtga.dll
+    │      │  │      qtiff.dll
+    │      │  │      qwbmp.dll
+    │      │  │      qwebp.dll
+    │      │  │      
+    │      │  ├─platforms
+    │      │  │      qwindows.dll
+    │      │  │      
+    │      │  └─styles
+    │      │          qwindowsvistastyle.dll
+    │      │          
+    │      ├─share
+    │      │  ├─docs
+    │      │  │      KeePassXC_GettingStarted.html
+    │      │  │      KeePassXC_KeyboardShortcuts.html
+    │      │  │      KeePassXC_UserGuide.html
+    │      │  │      
+    │      │  ├─icons
+    │      │  │  └─application
+    │      │  │      └─256x256
+    │      │  │          └─apps
+    │      │  │                  keepassxc.png
+    │      │  │                  
+    │      │  ├─translations
+    │      │  │      keepassxc_ar.qm
+    │      │  │      keepassxc_bg.qm
+    │      │  │      keepassxc_ca.qm
+    │      │  │      keepassxc_cs.qm
+    │      │  │      keepassxc_da.qm
+    │      │  │      keepassxc_de.qm
+    │      │  │      keepassxc_el.qm
+    │      │  │      keepassxc_en.qm
+    │      │  │      keepassxc_en_GB.qm
+    │      │  │      keepassxc_en_US.qm
+    │      │  │      keepassxc_es.qm
+    │      │  │      keepassxc_et.qm
+    │      │  │      keepassxc_fi.qm
+    │      │  │      keepassxc_fil.qm
+    │      │  │      keepassxc_fr.qm
+    │      │  │      keepassxc_fr_CA.qm
+    │      │  │      keepassxc_he.qm
+    │      │  │      keepassxc_hr.qm
+    │      │  │      keepassxc_hu.qm
+    │      │  │      keepassxc_id.qm
+    │      │  │      keepassxc_it.qm
+    │      │  │      keepassxc_ja.qm
+    │      │  │      keepassxc_km.qm
+    │      │  │      keepassxc_ko.qm
+    │      │  │      keepassxc_lt.qm
+    │      │  │      keepassxc_my.qm
+    │      │  │      keepassxc_nb.qm
+    │      │  │      keepassxc_nl.qm
+    │      │  │      keepassxc_pl.qm
+    │      │  │      keepassxc_pt_BR.qm
+    │      │  │      keepassxc_pt_PT.qm
+    │      │  │      keepassxc_ro.qm
+    │      │  │      keepassxc_ru.qm
+    │      │  │      keepassxc_si.qm
+    │      │  │      keepassxc_sk.qm
+    │      │  │      keepassxc_sl.qm
+    │      │  │      keepassxc_sq.qm
+    │      │  │      keepassxc_sr.qm
+    │      │  │      keepassxc_sv.qm
+    │      │  │      keepassxc_th.qm
+    │      │  │      keepassxc_tr.qm
+    │      │  │      keepassxc_uk.qm
+    │      │  │      keepassxc_zh_CN.qm
+    │      │  │      keepassxc_zh_TW.qm
+    │      │  │      qtbase_ar.qm
+    │      │  │      qtbase_bg.qm
+    │      │  │      qtbase_ca.qm
+    │      │  │      qtbase_cs.qm
+    │      │  │      qtbase_da.qm
+    │      │  │      qtbase_de.qm
+    │      │  │      qtbase_en.qm
+    │      │  │      qtbase_es.qm
+    │      │  │      qtbase_fa.qm
+    │      │  │      qtbase_fi.qm
+    │      │  │      qtbase_fr.qm
+    │      │  │      qtbase_gd.qm
+    │      │  │      qtbase_he.qm
+    │      │  │      qtbase_hr.qm
+    │      │  │      qtbase_hu.qm
+    │      │  │      qtbase_it.qm
+    │      │  │      qtbase_ja.qm
+    │      │  │      qtbase_ko.qm
+    │      │  │      qtbase_lv.qm
+    │      │  │      qtbase_nl.qm
+    │      │  │      qtbase_nn.qm
+    │      │  │      qtbase_pl.qm
+    │      │  │      qtbase_pt_BR.qm
+    │      │  │      qtbase_ru.qm
+    │      │  │      qtbase_sk.qm
+    │      │  │      qtbase_tr.qm
+    │      │  │      qtbase_uk.qm
+    │      │  │      qtbase_zh_CN.qm
+    │      │  │      qtbase_zh_TW.qm
+    │      │  │      
+    │      │  └─wordlists
+    │      │          eff_large.wordlist
+    │      │          
+    │      └─ssl
+    │          └─certs
+    │                  ca-bundle.crt
+    │                  
+    └─浏览器_Browsers
+        └─Tor Browser
+            │  Tor Browser.lnk
+            │  
+            └─Browser
+                │  AccessibleMarshal.dll
+                │  application.ini
+                │  d3dcompiler_47.dll
+                │  dependentlibs.list
+                │  firefox.exe
+                │  firefox.VisualElementsManifest.xml
+                │  freebl3.dll
+                │  gkcodecs.dll
+                │  ipcclientcerts.dll
+                │  lgpllibs.dll
+                │  libEGL.dll
+                │  libGLESv2.dll
+                │  mozavcodec.dll
+                │  mozavutil.dll
+                │  mozglue.dll
+                │  nmhproxy.exe
+                │  nss3.dll
+                │  nssckbi.dll
+                │  omni.ja
+                │  osclientcerts.dll
+                │  platform.ini
+                │  plugin-container.exe
+                │  precomplete
+                │  removed-files
+                │  softokn3.dll
+                │  tbb_version.json
+                │  update-settings.ini
+                │  updater.exe
+                │  updater.ini
+                │  xul.dll
+                │  
+                ├─browser
+                │  │  omni.ja
+                │  │  
+                │  └─VisualElements
+                │          VisualElements_150.png
+                │          VisualElements_70.png
+                │          
+                ├─defaults
+                │  └─pref
+                │          channel-prefs.js
+                │          
+                ├─distribution
+                │  └─extensions
+                │          {73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+                │          
+                ├─fonts
+                │      000_README.txt
+                │      NotoNaskhArabic-Regular.ttf
+                │      NotoSans-Regular.ttf
+                │      NotoSansAdlam-Regular.ttf
+                │      NotoSansBalinese-Regular.ttf
+                │      NotoSansBamum-Regular.ttf
+                │      NotoSansBassaVah-Regular.ttf
+                │      NotoSansBatak-Regular.ttf
+                │      NotoSansBengali-Regular.ttf
+                │      NotoSansBuginese-Regular.ttf
+                │      NotoSansBuhid-Regular.ttf
+                │      NotoSansCanadianAboriginal-Regular.ttf
+                │      NotoSansChakma-Regular.ttf
+                │      NotoSansCham-Regular.ttf
+                │      NotoSansCherokee-Regular.ttf
+                │      NotoSansCoptic-Regular.ttf
+                │      NotoSansDeseret-Regular.ttf
+                │      NotoSansDevanagari-Regular.ttf
+                │      NotoSansElbasan-Regular.ttf
+                │      NotoSansEthiopic-Regular.ttf
+                │      NotoSansGeorgian-Regular.ttf
+                │      NotoSansGrantha-Regular.ttf
+                │      NotoSansGujarati-Regular.ttf
+                │      NotoSansGunjalaGondi-Regular.ttf
+                │      NotoSansGurmukhi-Regular.ttf
+                │      NotoSansHanifiRohingya-Regular.ttf
+                │      NotoSansHanunoo-Regular.ttf
+                │      NotoSansJavanese-Regular.ttf
+                │      NotoSansKannada-Regular.ttf
+                │      NotoSansKayahLi-Regular.ttf
+                │      NotoSansKhmer-Regular.ttf
+                │      NotoSansKhojki-Regular.ttf
+                │      NotoSansKhudawadi-Regular.ttf
+                │      NotoSansLao-Regular.ttf
+                │      NotoSansLepcha-Regular.ttf
+                │      NotoSansLimbu-Regular.ttf
+                │      NotoSansLisu-Regular.ttf
+                │      NotoSansMahajani-Regular.ttf
+                │      NotoSansMalayalam-Regular.ttf
+                │      NotoSansMandaic-Regular.ttf
+                │      NotoSansMasaramGondi-Regular.ttf
+                │      NotoSansMedefaidrin-Regular.ttf
+                │      NotoSansMeeteiMayek-Regular.ttf
+                │      NotoSansMendeKikakui-Regular.ttf
+                │      NotoSansMiao-Regular.ttf
+                │      NotoSansModi-Regular.ttf
+                │      NotoSansMongolian-Regular.ttf
+                │      NotoSansMro-Regular.ttf
+                │      NotoSansMultani-Regular.ttf
+                │      NotoSansNewa-Regular.ttf
+                │      NotoSansNewTaiLue-Regular.ttf
+                │      NotoSansNKo-Regular.ttf
+                │      NotoSansOlChiki-Regular.ttf
+                │      NotoSansOriya-Regular.ttf
+                │      NotoSansOsage-Regular.ttf
+                │      NotoSansOsmanya-Regular.ttf
+                │      NotoSansPahawhHmong-Regular.ttf
+                │      NotoSansPauCinHau-Regular.ttf
+                │      NotoSansRejang-Regular.ttf
+                │      NotoSansRunic-Regular.ttf
+                │      NotoSansSamaritan-Regular.ttf
+                │      NotoSansSaurashtra-Regular.ttf
+                │      NotoSansSharada-Regular.ttf
+                │      NotoSansShavian-Regular.ttf
+                │      NotoSansSinhala-Regular.ttf
+                │      NotoSansSoraSompeng-Regular.ttf
+                │      NotoSansSoyombo-Regular.ttf
+                │      NotoSansSundanese-Regular.ttf
+                │      NotoSansSylotiNagri-Regular.ttf
+                │      NotoSansSymbols-Regular.ttf
+                │      NotoSansSymbols2-Regular.ttf
+                │      NotoSansSyriac-Regular.ttf
+                │      NotoSansTagalog-Regular.ttf
+                │      NotoSansTagbanwa-Regular.ttf
+                │      NotoSansTaiLe-Regular.ttf
+                │      NotoSansTaiTham-Regular.ttf
+                │      NotoSansTaiViet-Regular.ttf
+                │      NotoSansTakri-Regular.ttf
+                │      NotoSansTamil-Regular.ttf
+                │      NotoSansTelugu-Regular.ttf
+                │      NotoSansThaana-Regular.ttf
+                │      NotoSansTifinagh-Regular.ttf
+                │      NotoSansTifinaghAdrar-Regular.ttf
+                │      NotoSansTifinaghAgrawImazighen-Regular.ttf
+                │      NotoSansTifinaghAhaggar-Regular.ttf
+                │      NotoSansTifinaghAir-Regular.ttf
+                │      NotoSansTifinaghAPT-Regular.ttf
+                │      NotoSansTifinaghAzawagh-Regular.ttf
+                │      NotoSansTifinaghGhat-Regular.ttf
+                │      NotoSansTifinaghHawad-Regular.ttf
+                │      NotoSansTifinaghRhissaIxa-Regular.ttf
+                │      NotoSansTifinaghSIL-Regular.ttf
+                │      NotoSansTifinaghTawellemmet-Regular.ttf
+                │      NotoSansTirhuta-Regular.ttf
+                │      NotoSansVai-Regular.ttf
+                │      NotoSansWancho-Regular.ttf
+                │      NotoSansWarangCiti-Regular.ttf
+                │      NotoSansYi-Regular.ttf
+                │      NotoSansZanabazarSquare-Regular.ttf
+                │      NotoSerif-Regular.ttf
+                │      NotoSerifBalinese-Regular.ttf
+                │      NotoSerifBengali-Regular.ttf
+                │      NotoSerifDevanagari-Regular.ttf
+                │      NotoSerifDogra-Regular.ttf
+                │      NotoSerifEthiopic-Regular.ttf
+                │      NotoSerifGeorgian-Regular.ttf
+                │      NotoSerifGrantha-Regular.ttf
+                │      NotoSerifGujarati-Regular.ttf
+                │      NotoSerifGurmukhi-Regular.ttf
+                │      NotoSerifKannada-Regular.ttf
+                │      NotoSerifKhmer-Regular.ttf
+                │      NotoSerifKhojki-Regular.ttf
+                │      NotoSerifLao-Regular.ttf
+                │      NotoSerifMalayalam-Regular.ttf
+                │      NotoSerifMyanmar-Regular.ttf
+                │      NotoSerifNPHmong-Regular.ttf
+                │      NotoSerifSinhala-Regular.ttf
+                │      NotoSerifTamil-Regular.ttf
+                │      NotoSerifTelugu-Regular.ttf
+                │      NotoSerifTibetan-Regular.ttf
+                │      NotoSerifYezidi-Regular.ttf
+                │      Pyidaungsu-2.5.3_Regular.ttf
+                │      TwemojiMozilla.ttf
+                │      
+                └─TorBrowser
+                    ├─Data
+                    │  ├─Browser
+                    │  │  │  profiles.ini
+                    │  │  │  
+                    │  │  ├─Caches
+                    │  │  │  └─profile.default
+                    │  │  │      ├─cache2
+                    │  │  │      │  ├─doomed
+                    │  │  │      │  └─entries
+                    │  │  │      ├─safebrowsing
+                    │  │  │      ├─startupCache
+                    │  │  │      │      scriptCache-child-current.bin
+                    │  │  │      │      scriptCache-child.bin
+                    │  │  │      │      scriptCache-current.bin
+                    │  │  │      │      scriptCache.bin
+                    │  │  │      │      startupCache.8.little
+                    │  │  │      │      urlCache-current.bin
+                    │  │  │      │      urlCache.bin
+                    │  │  │      │      webext.sc.lz4
+                    │  │  │      │      
+                    │  │  │      └─thumbnails
+                    │  │  ├─Mozilla
+                    │  │  │  └─Extensions
+                    │  │  └─profile.default
+                    │  │      │  addonStartup.json.lz4
+                    │  │      │  bounce-tracking-protection.sqlite
+                    │  │      │  broadcast-listeners.json
+                    │  │      │  compatibility.ini
+                    │  │      │  containers.json
+                    │  │      │  content-prefs.sqlite
+                    │  │      │  cookies.sqlite
+                    │  │      │  cookies.sqlite-shm
+                    │  │      │  cookies.sqlite-wal
+                    │  │      │  extension-preferences.json
+                    │  │      │  extensions.json
+                    │  │      │  favicons.sqlite
+                    │  │      │  favicons.sqlite-shm
+                    │  │      │  favicons.sqlite-wal
+                    │  │      │  handlers.json
+                    │  │      │  onion-aliases.json
+                    │  │      │  parent.lock
+                    │  │      │  places.sqlite
+                    │  │      │  places.sqlite-shm
+                    │  │      │  places.sqlite-wal
+                    │  │      │  prefs.js
+                    │  │      │  search.json.mozlz4
+                    │  │      │  sessionCheckpoints.json
+                    │  │      │  SiteSecurityServiceState.bin
+                    │  │      │  storage-sync-v2.sqlite
+                    │  │      │  storage-sync-v2.sqlite-shm
+                    │  │      │  storage-sync-v2.sqlite-wal
+                    │  │      │  storage.sqlite
+                    │  │      │  times.json
+                    │  │      │  webappsstore.sqlite
+                    │  │      │  webappsstore.sqlite-shm
+                    │  │      │  webappsstore.sqlite-wal
+                    │  │      │  xulstore.json
+                    │  │      │  
+                    │  │      ├─bookmarkbackups
+                    │  │      ├─datareporting
+                    │  │      │  │  state.json
+                    │  │      │  │  
+                    │  │      │  └─glean
+                    │  │      │      ├─db
+                    │  │      │      │      data.safe.bin
+                    │  │      │      │      
+                    │  │      │      ├─events
+                    │  │      │      └─pending_pings
+                    │  │      ├─extension-store
+                    │  │      ├─extension-store-menus
+                    │  │      │      data.safe.bin
+                    │  │      │      
+                    │  │      ├─extensions
+                    │  │      │      {73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+                    │  │      │      
+                    │  │      ├─security_state
+                    │  │      │      data.safe.bin
+                    │  │      │      
+                    │  │      ├─shader-cache
+                    │  │      │      19cfe3ca62879cbb
+                    │  │      │      1a431417219b9c9a
+                    │  │      │      1d3b745abd8e9fc
+                    │  │      │      2f6000a4ecab313
+                    │  │      │      5192e0a48f3ed86c
+                    │  │      │      64f800cdb391cc9c
+                    │  │      │      664e1f9dc46c14d8
+                    │  │      │      6a75279dbc53127e
+                    │  │      │      78d868fcb62d1965
+                    │  │      │      7d74360a86071770
+                    │  │      │      821e37c18c161332
+                    │  │      │      8929963cf59f4094
+                    │  │      │      893780f9b81e8864
+                    │  │      │      8d32934e58fec695
+                    │  │      │      9bcec7b9b50e80d4
+                    │  │      │      a6adcca509ac27ce
+                    │  │      │      ab1aa6dcbb1494ee
+                    │  │      │      ab9756951a44c78d
+                    │  │      │      bb75898bc00f293d
+                    │  │      │      c0971fe550fd83d
+                    │  │      │      ce6d78c88957beb9
+                    │  │      │      d89e84192910768f
+                    │  │      │      dee1b426340c7f62
+                    │  │      │      e3584ae5b9d2f40e
+                    │  │      │      ff97111d18e867f7
+                    │  │      │      startup_shaders
+                    │  │      │      
+                    │  │      └─storage
+                    │  │          │  ls-archive.sqlite
+                    │  │          │  
+                    │  │          ├─default
+                    │  │          │  └─moz-extension+++26579333-ddbb-4a6e-b183-131968a03113^userContextId=4294967295
+                    │  │          │      │  .metadata-v2
+                    │  │          │      │  
+                    │  │          │      └─idb
+                    │  │          │          │  3647222921wleabcEoxlt-eengsairo.sqlite
+                    │  │          │          │  3647222921wleabcEoxlt-eengsairo.sqlite-shm
+                    │  │          │          │  3647222921wleabcEoxlt-eengsairo.sqlite-wal
+                    │  │          │          │  
+                    │  │          │          └─3647222921wleabcEoxlt-eengsairo.files
+                    │  │          ├─permanent
+                    │  │          │  └─chrome
+                    │  │          │      │  .metadata-v2
+                    │  │          │      │  
+                    │  │          │      └─idb
+                    │  │          │          │  3870112724rsegmnoittet-es.sqlite
+                    │  │          │          │  3870112724rsegmnoittet-es.sqlite-shm
+                    │  │          │          │  3870112724rsegmnoittet-es.sqlite-wal
+                    │  │          │          │  
+                    │  │          │          └─3870112724rsegmnoittet-es.files
+                    │  │          └─temporary
+                    │  └─Tor
+                    │      │  cached-certs
+                    │      │  cached-descriptors
+                    │      │  cached-descriptors.new
+                    │      │  cached-microdesc-consensus
+                    │      │  cached-microdescs
+                    │      │  cached-microdescs.new
+                    │      │  geoip
+                    │      │  geoip6
+                    │      │  lock
+                    │      │  state
+                    │      │  torrc
+                    │      │  torrc-defaults
+                    │      │  torrc.orig.1
+                    │      │  
+                    │      ├─keys
+                    │      ├─onion-auth
+                    │      └─pt_state
+                    ├─Docs
+                    │  │  ChangeLog.txt
+                    │  │  
+                    │  ├─conjure
+                    │  │      README.md
+                    │  │      
+                    │  └─Licenses
+                    │          conjure.txt
+                    │          Firefox.txt
+                    │          libevent.txt
+                    │          lyrebird.txt
+                    │          NoScript.txt
+                    │          Noto-CJK-Font.txt
+                    │          Noto-Fonts.txt
+                    │          openssl.txt
+                    │          Tor-Launcher.txt
+                    │          tor.txt
+                    │          Torbutton.txt
+                    │          zlib.txt
+                    │          
+                    ├─Tor
+                    │  │  tor.exe
+                    │  │  
+                    │  └─PluggableTransports
+                    │          conjure-client.exe
+                    │          lyrebird.exe
+                    │          
+                    └─UpdateInfo
+                        └─updates
+                            ├─0
+                            └─downloading

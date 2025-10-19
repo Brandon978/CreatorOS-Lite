@@ -1,0 +1,45 @@
+🧩 CreatorOS Lite 系统检测报告
+📅 2025-10-18 20:55:56
+========================================
+
+❌ Tor Browser - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\系统工具_System\隐私工具_Privacy\浏览器_Browsers\Tor
+❌ KeePassXC - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\系统工具_System\隐私工具_Privacy\加密_Encryption\KeePassXC
+❌ VeraCrypt - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\系统工具_System\隐私工具_Privacy\加密_Encryption\VeraCrypt
+✅ BleachBit - 已找到
+   ↳ D:\系统工具_System\隐私工具_Privacy\清理_Cleaners\BleachBit
+❌ 7-Zip - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\系统工具_System\压缩_Archive\7-Zip
+✅ Everything - 已找到
+   ↳ D:\系统工具_System\搜索_Search\Everything
+❌ PowerToys - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\系统工具_System\增强_Enhancement\PowerToys
+✅ GIMP - 已找到
+   ↳ D:\创作空间_Creative\工具_Tools\GIMP
+✅ Krita - 已找到
+   ↳ D:\创作空间_Creative\工具_Tools\Krita
+✅ Blender - 已找到
+   ↳ D:\创作空间_Creative\工具_Tools\Blender
+✅ Audacity - 已找到
+   ↳ D:\创作空间_Creative\工具_Tools\Audacity
+✅ FFmpeg - 已找到
+   ↳ D:\创作空间_Creative\工具_Tools\FFmpeg\bin
+❌ MSI Afterburner - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\游戏_Games\工具_Tools\MSIAfterburner
+❌ RivaTuner - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\游戏_Games\工具_Tools\RivaTuner
+❌ DXVK - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\游戏_Games\工具_Tools\DXVK
+❌ Special K - 未找到
+   ↳ 尝试创建目录...
+   ✅ 目录已创建: D:\游戏_Games\工具_Tools\SpecialK
